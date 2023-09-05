@@ -7,7 +7,7 @@ module.exports = ({ env }) => ({
             {
               name: 'peaceful-sopapillas-dea225',
               id: "1e9e7e16-76ad-4845-87a0-727f3681da69",
-              buildHook: "https://api.netlify.com/build_hooks/<hook_id>",
+              buildHook: "https://api.netlify.com/build_hooks/64f6ee6df7fa1075d739452d",
             //   branch: 'master' // optional
             }
           ]
